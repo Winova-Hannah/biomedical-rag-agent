@@ -1,0 +1,2 @@
+Title: Role of TNIK in Idiopathic Pulmonary Fibrosis
+Idiopathic pulmonary fibrosis (IPF) is a progressive lung disease with limited treatment options. Recent studies have identified TNIK (Traf2 and NCK interacting kinase) as a potential therapeutic target. Inhibition of TNIK has shown antifibrotic effects in preclinical models of lung fibrosis.
