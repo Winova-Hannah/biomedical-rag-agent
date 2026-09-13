@@ -71,8 +71,6 @@ Then, in a Claude Code session:
 
 
 
-## Example Output
-
 **Grounded answer with citations:**
 > Q: What is TNIK?
 > A: TNIK (TRAF2- and NCK-interacting kinase) is a protein kinase identified as a potential therapeutic target for treating idiopathic pulmonary fibrosis (IPF), with antifibrotic effects shown in preclinical models.
@@ -89,3 +87,4 @@ This second example matters: the system is explicitly instructed not to answer b
 - Reranking retrieved chunks before generation
 - A scored evaluation set (retrieval accuracy, faithfulness) instead of manual spot-checks
 - Docker containerization for easier deployment
+
