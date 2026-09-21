@@ -1,0 +1,94 @@
+6. Nat Med. 2025 Aug;31(8):2602-2610. doi: 10.1038/s41591-025-03743-2. Epub 2025 
+Jun 3.
+
+A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a 
+randomized phase 2a trial.
+
+Xu Z(1), Ren F(2), Wang P(3), Cao J(4), Tan C(5), Ma D(6), Zhao L(7), Dai J(8), 
+Ding Y(9), Fang H(10), Li H(11), Liu H(12), Luo F(13), Meng Y(14), Pan P(15), 
+Xiang P(16), Xiao Z(17), Rao S(18), Satler C(18), Liu S(2), Lv Y(2), Zhao H(2), 
+Chen S(2), Cui H(2), Korzinkin M(19), Gennert D(18), Zhavoronkov 
+A(20)(21)(22)(23).
+
+Author information:
+(1)Department of Pulmonary and Critical Care Medicine, Peking Union Medical 
+College Hospital, Beijing, China. xuzj@hotmail.com.
+(2)Insilico Medicine Shanghai, Shanghai, China.
+(3)Department of Pulmonary and Critical Care Medicine, Peking Union Medical 
+College Hospital, Beijing, China.
+(4)Department of Respiratory and Critical Care Medicine, Tianjin Medical 
+University General Hospital, Tianjin, China.
+(5)Department of Pulmonary and Critical Care Medicine, Beijing Friendship 
+Hospital, Capital Medical University, Beijing, China.
+(6)Department of Respiratory Disease, Qilu Hospital of Shandong University, 
+Jinan, China.
+(7)Department of Respiratory Medicine, Shengjing Hospital of China Medical 
+University, Shenyang, China.
+(8)Department of Pulmonary and Critical Care Medicine, Nanjing Drum Tower 
+Hospital, Nanjing University, Nanjing, China.
+(9)Department of Respiratory and Critical Care Medicine, Hainan General 
+Hospital, Haikou, China.
+(10)Department of Respiratory and Critical Care, Anhui Chest Hospital, Hefei, 
+China.
+(11)Department of Respiratory Medicine, Shanghai Pulmonary Hospital, Tongji 
+University, Shanghai, China.
+(12)Department of Respiratory and Critical Care Medicine, The First Affiliated 
+Hospital of Zhengzhou University, Zhengzhou, China.
+(13)Department of Pulmonary and Critical Care Medicine, West China Hospital, 
+Sichuan University, Chengdu, China.
+(14)Department of Respiratory and Critical Care Medicine, Nanfang Hospital, 
+Southern Medical University, Guangzhou, China.
+(15)Department of Respiratory Medicine, Xiangya Hospital, Central South 
+University, Changsha, China.
+(16)Department of Respiratory and Critical Care Medicine, Peking University 
+Shougang Hospital, Beijing, China.
+(17)Department of Respiratory and Critical Care Medicine, Jiangxi Provincial 
+People's Hospital, Nanchang, China.
+(18)Insilico Medicine US, Cambridge, MA, USA.
+(19)Insilico Medicine AI, Abu Dhabi, United Arab Emirates.
+(20)Insilico Medicine Shanghai, Shanghai, China. alex@insilico.com.
+(21)Insilico Medicine US, Cambridge, MA, USA. alex@insilico.com.
+(22)Insilico Medicine AI, Abu Dhabi, United Arab Emirates. alex@insilico.com.
+(23)Insilico Medicine Hong Kong, Hong Kong SAR, China. alex@insilico.com.
+
+Despite substantial progress in artificial intelligence (AI) for generative 
+chemistry, few novel AI-discovered or AI-designed drugs have reached human 
+clinical trials. Here we present the results of the first phase 2a multicenter, 
+double-blind, randomized, placebo-controlled trial testing the safety and 
+efficacy of rentosertib (formerly ISM001-055), a first-in-class AI-generated 
+small-molecule inhibitor of TNIK, a first-in-class target in idiopathic 
+pulmonary fibrosis (IPF) discovered using generative AI. IPF is an age-related 
+progressive lung condition with no current therapies available that reverse the 
+degenerative course of disease. Patients were randomized to 12 weeks of 
+treatment with 30 mg rentosertib once daily (QD, n = 18), 30 mg rentosertib 
+twice daily (BID, n = 18), 60 mg rentosertib QD (n = 18) or placebo (n = 17). 
+The primary endpoint was the percentage of patients who have at least one 
+treatment-emergent adverse event, which was similar across all treatment arms 
+(72.2% in patients receiving 30 mg rentosertib QD (n = 13/18), 83.3% for 30 mg 
+rentosertib BID (n = 15/18), 83.3% for 60 mg rentosertib QD (n = 15/18) and 
+70.6% for placebo (n = 12/17)). Treatment-related serious adverse event rates 
+were low and comparable across treatment groups, with the most common events 
+leading to treatment discontinuation related to liver toxicity or diarrhea. 
+Secondary endpoints included pharmacokinetic dynamics (Cmax, Ctrough, tmax, 
+AUC0-t/τ/∞ and t1/2), changes in lung function as measured by forced vital 
+capacity, diffusion capacity of the lung for carbon monoxide, forced expiry in 
+1 s and change in the Leicester Cough Questionnaire score, change in 6-min walk 
+distance and the number and hospitalization duration of acute exacerbations of 
+IPF. We observed increased forced vital capacity at the highest dosage with a 
+mean change of +98.4 ml (95% confidence interval 10.9 to 185.9) for patients in 
+the 60 mg rentosertib QD group, compared with -20.3 ml (95% confidence interval 
+-116.1 to 75.6) for the placebo group. These results suggest that targeting TNIK 
+with rentosertib is safe and well tolerated and warrants further investigation 
+in larger-scale clinical trials of longer duration. ClinicalTrials.gov 
+registration number: NCT05938920 .
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41591-025-03743-2
+PMCID: PMC12353801
+PMID: 40461817 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: F.R., S.R., C.S., S.L., 
+Y.L., H.Z., S.C., H.C., M.K., D.G. and A.Z. are employees of Insilico Medicine. 
+Insilico Medicine was the study sponsor. The other authors declare no competing 
+interests.

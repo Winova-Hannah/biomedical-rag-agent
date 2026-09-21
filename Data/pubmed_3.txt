@@ -1,0 +1,39 @@
+3. J Chem Inf Model. 2025 Oct 13;65(19):10673-10687. doi:
+10.1021/acs.jcim.5c01521.  Epub 2025 Sep 25.
+
+Integrated Machine Learning and Structure-Based Virtual Screening Identify 
+Osimertinib as a TNIK Inhibitor for Idiopathic Pulmonary Fibrosis.
+
+Zhao L(1), Liu H(1), Yao X(1), Ma X(1), Liu B(1), Li B(2), Tong HHY(1), Zhang 
+Q(1).
+
+Author information:
+(1)Centre for Artificial Intelligence Driven Drug Discovery, Faculty of Applied 
+Sciences, Macao Polytechnic University, Macau 999078, China.
+(2)College of Bioengineering, Chongqing University, Chongqing 400044, China.
+
+Traf2-and Nck-interacting kinase (TNIK) has been implicated in 
+fibrosis-associated signaling pathways and has recently emerged as a promising 
+therapeutic target for idiopathic pulmonary fibrosis (IPF). In this study, we 
+employed an integrated strategy combining machine learning-based prediction and 
+structure-based virtual screening to repurpose drugs from the DrugBank database 
+as potential TNIK inhibitors for IPF treatment. Using this approach, we 
+identified 19 candidate compounds, among which 14 demonstrated TNIK enzymatic 
+inhibition rates exceeding 70% at a concentration of 10 μM, as determined by the 
+ADP-Glo assay. Notably, among these candidates, the approved drug osimertinib 
+showed potent TNIK inhibitory activity with an IC50 of 151.90 nM and 
+demonstrated an acceptable cytotoxicity profile in human lung fibroblast MRC-5 
+cells (CC50 = 4366.01 nM). Furthermore, osimertinib significantly suppressed 
+TGF-β1-induced fibrogenesis in human lung fibroblast-derived MRC-5 cells at 3 
+μM, as confirmed by qPCR and Western blot analyses. Molecular dynamics 
+simulations and structural analyses revealed that osimertinib engages the 
+ATP-binding pocket of TNIK via hinge hydrogen bonding with Cys108, while 
+unoccupied subpockets near Met105 and the involvement of Gln157 provide 
+opportunities for rational modifications to improve affinity and selectivity. 
+These findings demonstrate the robustness of our integrated machine learning and 
+structure-based virtual screening pipeline and suggest that osimertinib warrants 
+further evaluation as a TNIK-targeted agent for IPF, with future studies needed 
+to optimize its potency and selectivity.
+
+DOI: 10.1021/acs.jcim.5c01521
+PMID: 40999821 [Indexed for MEDLINE]

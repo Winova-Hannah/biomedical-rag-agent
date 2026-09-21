@@ -1,0 +1,73 @@
+8. Nat Biotechnol. 2025 Jan;43(1):63-75. doi: 10.1038/s41587-024-02143-0. Epub
+2024  Mar 8.
+
+A small-molecule TNIK inhibitor targets fibrosis in preclinical and clinical 
+models.
+
+Ren F(1)(2), Aliper A(2)(3), Chen J(4), Zhao H(1), Rao S(5), Kuppe C(6)(7), 
+Ozerov IV(3), Zhang M(1), Witte K(3), Kruse C(3), Aladinskiy V(2), Ivanenkov 
+Y(3), Polykovskiy D(8), Fu Y(1), Babin E(2), Qiao J(1), Liang X(1), Mou Z(1), 
+Wang H(1), Pun FW(3), Torres-Ayuso P(9), Veviorskiy A(2), Song D(4), Liu S(1), 
+Zhang B(1), Naumov V(3), Ding X(10), Kukharenko A(3), Izumchenko E(11), 
+Zhavoronkov A(12)(13)(14)(15).
+
+Author information:
+(1)Insilico Medicine Shanghai Ltd., Shanghai, China.
+(2)Insilico Medicine AI Limited, Abu Dhabi, UAE.
+(3)Insilico Medicine Hong Kong Ltd., Hong Kong Science and Technology Park, Hong 
+Kong SAR, China.
+(4)Department of Clinical Pharmacology, Affiliated Xiaoshan Hospital, Hangzhou 
+Normal University, Hangzhou, China.
+(5)Insilico Medicine US Inc., New York, NY, USA.
+(6)Institute of Experimental Medicine and Systems Biology, RWTH Aachen 
+University, Aachen, Germany.
+(7)Department of Nephrology, University Clinic RWTH Aachen, Aachen, Germany.
+(8)Insilico Medicine Canada Inc, Montreal, Quebec, Canada.
+(9)Department of Cancer and Cellular Biology, Lewis Katz School of Medicine, 
+Temple University, PA, USA.
+(10)Division of Nephrology, Zhongshan Hospital Shanghai Medical College, Fudan 
+University, Shanghai, China.
+(11)Section of Hematology and Oncology, Department of Medicine, University of 
+Chicago, Chicago, IL, USA.
+(12)Insilico Medicine AI Limited, Abu Dhabi, UAE. alex@insilico.com.
+(13)Insilico Medicine Hong Kong Ltd., Hong Kong Science and Technology Park, 
+Hong Kong SAR, China. alex@insilico.com.
+(14)Insilico Medicine US Inc., New York, NY, USA. alex@insilico.com.
+(15)Insilico Medicine Canada Inc, Montreal, Quebec, Canada. alex@insilico.com.
+
+Comment in
+    Nat Rev Drug Discov. 2024 May;23(5):337. doi: 10.1038/d41573-024-00053-z.
+
+Idiopathic pulmonary fibrosis (IPF) is an aggressive interstitial lung disease 
+with a high mortality rate. Putative drug targets in IPF have failed to 
+translate into effective therapies at the clinical level. We identify TRAF2- and 
+NCK-interacting kinase (TNIK) as an anti-fibrotic target using a predictive 
+artificial intelligence (AI) approach. Using AI-driven methodology, we generated 
+INS018_055, a small-molecule TNIK inhibitor, which exhibits desirable drug-like 
+properties and anti-fibrotic activity across different organs in vivo through 
+oral, inhaled or topical administration. INS018_055 possesses anti-inflammatory 
+effects in addition to its anti-fibrotic profile, validated in multiple in vivo 
+studies. Its safety and tolerability as well as pharmacokinetics were validated 
+in a randomized, double-blinded, placebo-controlled phase I clinical trial 
+(NCT05154240) involving 78 healthy participants. A separate phase I trial in 
+China, CTR20221542, also demonstrated comparable safety and pharmacokinetic 
+profiles. This work was completed in roughly 18 months from target discovery to 
+preclinical candidate nomination and demonstrates the capabilities of our 
+generative AI-driven drug-discovery pipeline.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41587-024-02143-0
+PMCID: PMC11738990
+PMID: 38459338 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: For A.Z. and listed authors 
+that are affiliated with Insilico Medicine: Insilico Medicine is a global 
+clinical-stage commercial generative AI company with several hundred patents and 
+patent applications and commercially available software. Insilico Medicine is a 
+company developing an AI-based end-to-end integrated pipeline for drug discovery 
+and development that is engaged in drug-discovery programs for aging, fibrosis 
+and oncology. F.R., A.A., H.Z., S.R., I.V.O., M.Z., K.W., C. Kruse, V.A., Y.I., 
+D.P., Y.F., E.B., J.Q., X.L., Z.M., H.W., F.W.P., A.V., S.L., B.Z., V.N., A.K. 
+and A.Z. are affiliated with Insilico Medicine or were affiliated with Insilico 
+Medicine when the studies were performed. No other conflicts are reported.

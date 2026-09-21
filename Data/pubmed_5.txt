@@ -1,0 +1,42 @@
+5. Med Sci Monit. 2025 Jun 20;31:e948510. doi: 10.12659/MSM.948510.
+
+Machine Learning-Driven Discovery of TRIM Genes as Diagnostic Biomarkers for 
+Idiopathic Pulmonary Fibrosis.
+
+Huang X(1), Yu W(1), Hua F(2), Wei A(1), Wang X(1), Chen S(1).
+
+Author information:
+(1)Department of Anesthesiology, The First Affiliated Hospital of Nanchang 
+University, Nanchang, Jiangxi, China.
+(2)Department of Anesthesiology, The Second Affiliated Hospital of Nanchang 
+University, Nanchang, Jiangxi, China.
+
+BACKGROUND Idiopathic pulmonary fibrosis (IPF) is a progressive lung disease 
+with limited effective treatments and significant challenges in early diagnosis. 
+Identifying reliable biomarkers is crucial for improving diagnostic accuracy and 
+patient outcomes. MATERIAL AND METHODS We analyzed TRIM family gene expression 
+in IPF patients and healthy controls using GSE93606, GSE33566, and GSE38958 
+datasets. Consensus clustering and WGCNA identified IPF subtypes and hub genes. 
+Machine learning models (RF, GLM, SVM, XGB) were built to identify key disease 
+genes. A nomogram for clinical prediction was developed and validated. 
+Peripheral blood samples from IPF patients and healthy controls were used to 
+validate gene expression via qPCR. RESULTS TRIM family genes were significantly 
+differentially expressed between IPF patients and healthy controls. Two distinct 
+IPF subtypes (C1 and C2) were identified, each exhibiting unique biological 
+functions and signaling pathways. The RF model outperformed other machine 
+learning models, identifying TNIK, NCL, ROPN1L, MTR, and HNRNPH1 as key 
+disease-characteristic genes. The nomogram demonstrated good predictive accuracy 
+(AUC: 0.741, 95% CI: 0.556-0.897). qPCR validation confirmed increased 
+expression of 4 genes in IPF patients, except for ROPN1L, which showed decreased 
+expression. CONCLUSIONS This study identifies and validates TRIM family genes as 
+potential biomarkers for IPF diagnosis using clinical samples. The findings 
+support the integration of these biomarkers into diagnostic workflows, 
+potentially enhancing early diagnosis and personalized treatment strategies for 
+IPF patients. Further research is needed to explore the prognostic value and 
+underlying mechanisms of these genes.
+
+DOI: 10.12659/MSM.948510
+PMCID: PMC12186548
+PMID: 40538010 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared

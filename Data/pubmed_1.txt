@@ -1,0 +1,40 @@
+1. BJC Rep. 2026 Apr 15;4(1):18. doi: 10.1038/s44276-026-00221-1.
+
+Precision oncology in the age of AI: lessons from AI-driven drug discovery and 
+clinical translation.
+
+Yoo W(1).
+
+Author information:
+(1)Genomic Medicine Research Center, Korea Research Institute of Bioscience and 
+Biotechnology, Daejeon, Republic of Korea. wyoo@kribb.re.kr.
+
+Drug discovery has been constrained by extended timelines and high costs, as the 
+cumulative requirements of preclinical validation, multi-phase clinical trials, 
+and regulatory approval have been imposed. Recently, computational modeling has 
+been explored as a supportive approach to accelerate the identification and 
+refinement of therapeutic candidates. Proof-of-concept was provided in a phase 
+2a trial of a de novo-designed TNIK inhibitor in idiopathic pulmonary fibrosis, 
+in which safety, tolerability, and pharmacodynamic target engagement were 
+demonstrated, with a trend toward reduced functional decline. This study showed 
+that AI-derived molecules can advance into human testing, but broader 
+validation, mechanistic understanding, and regulatory alignment remain 
+essential. In oncology, where tumor heterogeneity, clonal evolution, and 
+therapeutic resistance continue to constrain durable clinical benefit, there is 
+an increasing need for adaptive and data-informed drug discovery strategies. 
+This Perspective reviews recent progress and limitations in AI-driven drug 
+discovery and early clinical translation. It emphasizes how the clinical 
+evaluation of an AI-generated TNIK inhibitor serves as an early translational 
+reference and outlines practical strategies for integrating multi-omics data, 
+federated model validation, and adaptive trial design to advance precision 
+oncology-oriented therapeutics.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s44276-026-00221-1
+PMCID: PMC13083990
+PMID: 41986665
+
+Conflict of interest statement: Competing Interests: The author Wonbeak Yoo is 
+an Associate Editor of BJC Reports but was not involved in the peer-review 
+process or any editorial decisions regarding this manuscript.

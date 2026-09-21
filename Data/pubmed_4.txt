@@ -1,0 +1,34 @@
+4. Expert Opin Ther Pat. 2025 Oct;35(10):1051-1061. doi: 
+10.1080/13543776.2025.2548585. Epub 2025 Aug 20.
+
+Traf2- and Nck-interacting kinase inhibitors: a patent review (2008-2024).
+
+Qin L(1), Aladinskiy V(2), Gennert D(3), Cheng X(1), Liu J(1), Liu T(1), Ren 
+F(1)(2)(3), Zhavoronkov A(2)(3)(4).
+
+Author information:
+(1)Insilico Medicine Shanghai Ltd, Shanghai, China.
+(2)Insilico Medicine AI, Masdar City, United Arab Emirates.
+(3)Insilico Medicine US Inc, Cambridge, MA, USA.
+(4)Insilico Medicine Hong Kong Ltd, Unit 310, Hong Kong, China.
+
+INTRODUCTION: Traf2- and Nck-interacting kinase (TNIK) is a crucial player in 
+various intracellular signaling pathways, including Wnt/β-catenin, cytoskeleton 
+organization, and immune activation. It phosphorylates several key target genes 
+and is widely expressed in different organ systems, such as neural, 
+gastrointestinal, lung, liver, and kidney tissues. TNIK has been implicated in 
+multiple different disease areas, including oncology, neurological diseases, and 
+fibrosis.
+AREA COVERED: This review provides an update of small molecule TNIK inhibitors 
+in patents published from 2008 to 2024.
+EXPERT OPINION: Despite over 10 patents disclosing multiple scaffolds since 
+2008, only one inhibitor, INS018_055, has advanced to clinical trials to treat 
+idiopathic pulmonary fibrosis. For the oncology indications, this is largely due 
+to complexities in the relationship between TNIK and oncogenic pathways. 
+Additionally, key characteristics of the molecules, such as kinase selectivity, 
+physicochemical properties, and pharmacokinetic profiles, have played 
+significant roles in determining whether the molecules are drug-like enough to 
+advance to clinical trials.
+
+DOI: 10.1080/13543776.2025.2548585
+PMID: 40820280 [Indexed for MEDLINE]
