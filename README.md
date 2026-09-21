@@ -18,6 +18,13 @@ Ollama (llama3.2) generates a grounded answer
    ↓
 Answer + source citations
 
+## Dataset
+
+Includes a small seed set of biomedical abstracts, plus real literature 
+auto-fetched from PubMed via `fetch_pubmed.py` (using NCBI's public Entrez 
+API). Currently indexes 12 documents; re-running the fetch script with a 
+different search term pulls in new, current research on demand.
+
 This core pipeline (`rag.py`) is exposed three ways:
 - `app.py` — Streamlit UI for humans
 - `api.py` — FastAPI REST endpoint (`POST /ask`) for any application
